@@ -1,1 +1,1 @@
-# organization.github.io
+# organization_of_events
